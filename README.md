@@ -17,7 +17,7 @@ Esercizi di livello 1 svolti e commentati.
 
 <b>Hai usato qualche libreria particolare che limita la corretta esecuzione del codice solo su alcuni S.O? </b>
 
-<b>R: No,i codici sono eseguibili su ogni S.O.,non sono infatti presenti riferimeti a librerie "proprietarie" (ergo le api windows (windows.h) </b>
+<b>R: No,i codici sono eseguibili su ogni S.O.,non sono infatti presenti riferimeti a librerie "proprietarie" (ergo le api windows (windows.h)) </b>
 
 Ogni miglioramento e/o correzione al codice è la benvenuta!
 
